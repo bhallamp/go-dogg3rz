@@ -26,7 +26,7 @@ The Dogg3rz Project is a work in progress. As such, there's a few things you can
 -   **Open issues**, [file issues](https://github.com/datacequia/go-dogg3rz/issues), submit pull requests!
 -   **Perform code reviews**. More eyes will help a) speed the project along b) ensure quality and c) reduce possible future bugs.
 -   **Take a look at the code**. Contributions here that would be most helpful are **top-level comments** about how it should look based on your understanding. Again, the more eyes the better.
--   **Add tests**. There can never be enough tests.
+-   **Add tests**. There can never be enough tests. 
 
 # License
 
